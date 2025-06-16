@@ -1,4 +1,4 @@
-##👋 Hi, I’m Oge Uzoma
+👋 Hi, I’m Oge Uzoma
 
 <!--
 🚀 Data Analyst | Python • SQL • Tableau • Power BI | Remote-Ready | Data Storyteller
