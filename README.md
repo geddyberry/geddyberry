@@ -1,6 +1,6 @@
 👋 Hi, I’m Oge Uzoma
 
-🚀 Data Analyst | Python • SQL • Tableau • Power BI | Remote-Ready | Data Storyteller
+🚀 Data Analyst | Python • SQL • R • Tableau • Power BI | Remote-Ready | Data Storyteller
 
 Passionate about turning data chaos into clarity. Whether it's cleaning thousands of records, building dashboards that deliver insights at a glance, or digging deep into trends that drive strategy—I'm all about data that makes a difference.
 
