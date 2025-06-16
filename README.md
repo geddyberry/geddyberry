@@ -10,6 +10,4 @@ Passionate about turning data chaos into clarity. Whether it's cleaning thousand
 
 👯 Excited to collaborate on open-source or freelance projects that need data cleaning, analysis, or dashboard development.
 
-📫 You can reach me via email at ogeuzoma@hotmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/ogediniru-uzoma/
-
 ⚡ Fun fact: I once cleaned 50,000+ rows of chaotic customer data—and loved every minute of it.
