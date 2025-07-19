@@ -10,4 +10,4 @@ Passionate about turning data chaos into clarity. Whether it's cleaning thousand
 
 👯 Excited to collaborate on open-source or freelance projects that need data cleaning, analysis, or dashboard development.
 
-⚡ Fun fact: I once cleaned 50,000+ rows of chaotic customer data—and loved every minute of it.
+⚡ Fun fact: I once cleaned 1mill+ rows of chaotic customer data—and loved every minute of it.
